@@ -1,0 +1,27 @@
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\bin\Debug\Language.Container.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\bin\Debug\Language.Container.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\bin\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\bin\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\obj\Debug\Language.Container.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\obj\Debug\Language.Container.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\obj\Debug\Language.Container.csproj.CopyComplete
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\obj\Debug\Language.Container.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Contenedor\obj\Debug\Language.Container.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Container.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Container.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.csproj.CopyComplete
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.pdb
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Container.dll
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Container.pdb
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Interface.dll
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\bin\Debug\Language.Interface.pdb
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.csproj.AssemblyReference.cache
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.csproj.CoreCompileInputs.cache
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.19E7C8CB.Up2Date
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.dll
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Container\obj\Debug\Language.Container.pdb

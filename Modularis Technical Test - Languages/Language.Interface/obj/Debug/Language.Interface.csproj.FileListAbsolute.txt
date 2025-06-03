@@ -1,0 +1,17 @@
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Interfaces\bin\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Interfaces\bin\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Interfaces\obj\Debug\Language.Interface.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Interfaces\obj\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Example.Interfaces\obj\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\bin\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\bin\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.dll
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.pdb
+C:\Users\developer\Desktop\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.csproj.AssemblyReference.cache
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\bin\Debug\Language.Interface.dll
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\bin\Debug\Language.Interface.pdb
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.csproj.AssemblyReference.cache
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.csproj.CoreCompileInputs.cache
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.dll
+C:\Users\TOMIL\OneDrive\Escritorio\Modularis\Technical Test 3\Modularis Technical Test - Languages\Modularis Technical Test - Languages\Language.Interface\obj\Debug\Language.Interface.pdb

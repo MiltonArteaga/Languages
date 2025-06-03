@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0F46E0-1DC9-475C-8A52-94601849C4F9}|Language.Container\\Language.Container.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\modularis technical test - languages\\language.container\\messagecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0F46E0-1DC9-475C-8A52-94601849C4F9}|Language.Container\\Language.Container.csproj|solutionrelative:language.container\\messagecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Language.Message.Spanish||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\modularis technical test - languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\modularis technical test - languages\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C513CB7-DC03-4D75-808A-E02D64180F0D}|..\\Language.Message.Spanish\\Language.Message.Spanish.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\language.message.spanish\\messageinspanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC225BD6-62A0-4832-B857-10F008281CF9}|Language.Message\\Language.Message.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\modularis technical test - languages\\language.message\\messageinenglish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC225BD6-62A0-4832-B857-10F008281CF9}|Language.Message\\Language.Message.csproj|solutionrelative:language.message\\messageinenglish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\modularis technical test - languages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02B7A4-3C19-4171-AB2E-88D9EB30E778}|Modularis.Language.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C513CB7-DC03-4D75-808A-E02D64180F0D}|..\\Language.Message.Spanish\\Language.Message.Spanish.csproj|c:\\users\\tomil\\onedrive\\escritorio\\modularis\\technical test 3\\modularis technical test - languages\\language.message.spanish\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language.Message.Spanish",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Language.Message.Spanish\\Language.Message.Spanish.csproj",
+              "RelativeDocumentMoniker": "..\\Language.Message.Spanish\\Language.Message.Spanish.csproj",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Language.Message.Spanish\\Language.Message.Spanish.csproj",
+              "RelativeToolTip": "..\\Language.Message.Spanish\\Language.Message.Spanish.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T03:22:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:14:30.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageContainer.cs",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Language.Container\\MessageContainer.cs",
+              "RelativeDocumentMoniker": "Language.Container\\MessageContainer.cs",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Language.Container\\MessageContainer.cs",
+              "RelativeToolTip": "Language.Container\\MessageContainer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAWwHQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:13:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageInSpanish.cs",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Language.Message.Spanish\\MessageInSpanish.cs",
+              "RelativeDocumentMoniker": "..\\Language.Message.Spanish\\MessageInSpanish.cs",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Language.Message.Spanish\\MessageInSpanish.cs",
+              "RelativeToolTip": "..\\Language.Message.Spanish\\MessageInSpanish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:07:04.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageInEnglish.cs",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Language.Message\\MessageInEnglish.cs",
+              "RelativeDocumentMoniker": "Language.Message\\MessageInEnglish.cs",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Language.Message\\MessageInEnglish.cs",
+              "RelativeToolTip": "Language.Message\\MessageInEnglish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:54:15.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:52:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\TOMIL\\OneDrive\\Escritorio\\Modularis\\Technical Test 3\\Modularis Technical Test - Languages\\Modularis Technical Test - Languages\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-03T02:51:34.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

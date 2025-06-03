@@ -1,0 +1,9 @@
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\bin\Debug\Example.Contenedor.dll
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\bin\Debug\Example.Contenedor.pdb
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\bin\Debug\Example.Interfaces.dll
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\bin\Debug\Example.Interfaces.pdb
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\obj\Debug\Example.Contenedor.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\obj\Debug\Example.Contenedor.csproj.CopyComplete
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\obj\Debug\Example.Contenedor.dll
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\obj\Debug\Example.Contenedor.pdb
+C:\Users\developer\Desktop\Prueba tecnica 1\Example.Contenedor\obj\Debug\Example.Contenedor.csproj.AssemblyReference.cache
