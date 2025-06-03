@@ -1,6 +1,0 @@
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\bin\Debug\Example.Interfaces.dll
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\bin\Debug\Example.Interfaces.pdb
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\obj\Debug\Example.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\obj\Debug\Example.Interfaces.dll
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\obj\Debug\Example.Interfaces.pdb
-C:\Users\developer\Desktop\Prueba tecnica 1\Example.Interfaces\obj\Debug\Example.Interfaces.csproj.AssemblyReference.cache
